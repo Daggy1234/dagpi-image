@@ -438,7 +438,7 @@ standard = ["websockets (>=8.0.0,<9.0.0)", "watchgod (>=0.6,<0.7)", "python-dote
 
 [[package]]
 name = "wand"
-version = "0.6.3"
+version = "0.6.5"
 description = "Ctypes-based simple MagickWand API binding for Python"
 category = "main"
 optional = false
@@ -451,7 +451,7 @@ test = ["pytest (>=5.3.5)"]
 [metadata]
 lock-version = "1.1"
 python-versions = "^3.8"
-content-hash = "2a07c7d47b8975c56cf0492d524ec0b5e87133e448b64ac7abe5da230e29b8c1"
+content-hash = "a86aac96b467f4a7538f18bbea7d8c8afca342ba0e1e1f249d86eae97939f751"
 
 [metadata.files]
 async-timeout = [
@@ -806,6 +806,6 @@ uvicorn = [
     {file = "uvicorn-0.12.1.tar.gz", hash = "sha256:a461e76406088f448f36323f5ac774d50e5a552b6ccb54e4fca8d83ef614a7c2"},
 ]
 wand = [
-    {file = "Wand-0.6.3-py2.py3-none-any.whl", hash = "sha256:566b3d049858efa879096a7ab2e0516d67a240e6c3ffd7a267298c41e81c14b7"},
-    {file = "Wand-0.6.3.tar.gz", hash = "sha256:d21429288fe0de63d829dbbfb26736ebaed9fd0792c2a0dc5943c5cab803a708"},
+    {file = "Wand-0.6.5-py2.py3-none-any.whl", hash = "sha256:473af4a143d2c87693cc43dbd6f64d91ccfd7f0506cf4da53851cd34f114b39d"},
+    {file = "Wand-0.6.5.tar.gz", hash = "sha256:ec981b4f07f7582fc564aba8b57763a549392e9ef8b6a338e9da54cdd229cf95"},
 ]
