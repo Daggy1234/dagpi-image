@@ -1,5 +1,5 @@
 async-timeout==3.0.1
-certifi==2020.6.20
+certifi==2020.12.5
 click==7.1.2
 cycler==0.10.0
 decorator==4.4.2
